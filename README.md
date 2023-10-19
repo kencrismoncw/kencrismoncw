@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kencrismoncw otherwise known as Ken Crismon
+- To review my credentials please see [Ken Crismon](https://github.com/kencrismoncw/kencrismon)
 - 👀 I’m interested in All things IoT and all things Cyber Security, specifically Secure Software Delivery
 - 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on Many items
